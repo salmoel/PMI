@@ -1,0 +1,87 @@
+<section class="page-section" id="services" style="margin-top: -20px;">
+      <div class="container">
+        <div class="text-center">
+          <h2 class="section-heading text-uppercase">QUEM SOMOS ?</h2>
+          <h3 class="section-subheading text-muted">Conheça-nos!</h3>
+        </div>
+        <div class="row text-center">
+          <div class="col-md-4">
+            <span class="fa-stack fa-4x">
+              <i class="fas fa-circle fa-stack-2x text-primary"></i>
+              <i class="fa fa-users fa-stack-1x fa-inverse"></i>
+            </span>
+            <h4 class="my-3">Sobre nós</h4>
+            <p class="text-muted">
+              Somos uma missão evangélica latina interdenominacional servindo
+              entre os muçulmanos como uma comunidade espiritual trabalhando em
+              equipe. Sempre com o desejo de ver a Igreja de Cristo florescendo
+              e impactando todas as áreas da sociedade.
+            </p>
+          </div>
+          <div class="col-md-4">
+            <span class="fa-stack fa-4x">
+              <i class="fas fa-circle fa-stack-2x text-primary"></i>
+              <i class="fa fa-globe-asia fa-stack-1x fa-inverse"></i>
+            </span>
+            <h4 class="my-3">Nossa missão</h4>
+            <p class="text-muted">
+              Cooperar com a igreja evangélica brasileira, mobilizando e
+              direcionando recursos humanos e financeiros para estabelecer a
+              Igreja de Jesus Cristo entre os povos muçulmanos.
+            </p>
+          </div>
+          <div class="col-md-4">
+            <span class="fa-stack fa-4x">
+              <i class="fas fa-circle fa-stack-2x text-primary"></i>
+              <i class="fas fa-binoculars fa-stack-1x fa-inverse"></i>
+            </span>
+            <h4 class="my-3">Nossa visão</h4>
+            <p class="text-muted">
+              Ver a glória de Deus expressada nas Igrejas autóctonas que, ao ser
+              e fazer discípulos de Jesus Cristo, aproximam o Reino de Deus aos
+              muçulmanos.
+            </p>
+          </div>
+        </div>
+        <div class="row text-center">
+          <div class="col-md-4">
+            <span class="fa-stack fa-4x">
+              <i class="fas fa-circle fa-stack-2x text-primary"></i>
+              <i class="fa fa-hands-helping fa-stack-1x fa-inverse"></i>
+            </span>
+            <h4 class="my-3">Comprimisso</h4>
+            <p class="text-muted">
+              Igrejas Enviadoras Uma ação missionária integral Ministério de
+              longo prazo Capacitação e adaptação transcultural Estilo de
+              liderança bíblico.
+            </p>
+          </div>
+          <div class="col-md-4">
+            <span class="fa-stack fa-4x">
+              <i class="fas fa-circle fa-stack-2x text-primary"></i>
+              <i class="fa fa-hand-holding-heart fa-stack-1x fa-inverse"></i>
+            </span>
+            <h4 class="my-3">Valores</h4>
+            <p class="text-muted">
+              Amor e Devoção a Deus Sacríficio e Compaixão Comunidade Serviço e
+              Generosidade Integridade e Transparência Graça e Celebração.
+            </p>
+          </div>
+          <div class="col-md-4">
+            <span class="fa-stack fa-4x">
+              <i class="fas fa-circle fa-stack-2x text-primary"></i>
+              <i class="fas fa-map-marker-alt fa-stack-1x fa-inverse"></i>
+            </span>
+            <h4 class="my-3">Onde estamos</h4>
+            <p class="text-muted">
+              Norte de África <br />
+              África Subsaariana <br />
+              Oriente Médio <br />
+              Europa <br />
+              Ásia <br />
+              Ásia Central.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>

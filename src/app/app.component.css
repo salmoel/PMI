@@ -1,0 +1,39 @@
+@font-face {
+  font-family: Humanst521 BT;
+  src: url('/src/assets/fonts/Humanst521\ BT.ttf');
+}
+
+.slogan {
+  margin-top: -60px;
+  font-size: 25px !important;
+}
+
+.description{
+  font-size: 20px;
+}
+
+.sectooltip:hover .tooltip {
+  visibility: visible;
+  opacity: 1;
+  transform: translateX(-15%) translateY(0px);
+}
+
+.tooltip{
+  position: absolute;
+  bottom: -100px;
+  left: 80px;
+  padding: 20px;
+  min-width: 200px;
+
+  border: 1px solid  #4DAF94;
+  border-radius: 10px;
+  visibility: hidden;
+  opacity: 0;
+  transform: translateY(-10px);
+  transition: 0.5s;
+}
+.sectooltip:hover {
+  font-size: large !important;
+color: #4DAF94 !important;
+transition: 0.1s;
+}
